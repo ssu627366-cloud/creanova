@@ -1,0 +1,16 @@
+* {
+  font-family: "PT Sans", sans-serif;
+}
+
+/* nav bar */
+.bg-navbar {
+  background-color: #423e42;
+}
+
+.active {
+  font-weight: bold;
+  border-bottom: 2px solid #e3b23c;
+}
+.navbar-nav a:hover {
+  border-bottom: 2px solid #e3b23c;
+}
